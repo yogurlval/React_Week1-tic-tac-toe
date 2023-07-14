@@ -33,7 +33,7 @@ function App() {
             return `${arr[a]} won!`;
         }
     }
-    return "Who will win?";
+    return "WHO WILL WIN?";
 }
 
   
